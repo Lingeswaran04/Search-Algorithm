@@ -107,11 +107,17 @@ else:
     print("Element found at index: ",result)
 ```
 ## Sample Input and Output
+
 i) #Use a linear search method to match the item in a list.
+
 ![image](https://github.com/Lingeswaran04/Search-Algorithm/assets/119103865/4d0e12ab-9516-43c5-be82-614fc3890ec2)
+
 ii)	# Find the element in a list using Binary Search(Iterative Method).
+
 ![image](https://github.com/Lingeswaran04/Search-Algorithm/assets/119103865/d5583c7d-66d3-41d8-8aaa-087a6d5e6d44)
+
 iii)	# Find the element in a list using Binary Search (recursive Method).
+
 ![image](https://github.com/Lingeswaran04/Search-Algorithm/assets/119103865/98abd586-d310-4a98-bbc2-3eb7f272ddd6)
 
 ## Result
